@@ -335,6 +335,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Feedback Kit](https://www.feedbackkit.app?utm_source=toolify) - Meet your AI Feedback Partner – Intelligent Feedback Tool built for fast-moving solopreneurs
 * [Fiddl.art](https://iacommunidad.com/topic/2114/fiddl.art-ai-art-generator-for-custom-models-and-monetization) - AI art generator for custom models, creation, and earning.
 * [Filtrix AI](https://iacommunidad.com/topic/2357/filtrix-ai-transform-photos-into-art-with-ai) - AI image editor & generator for transforming photos into art with custom styles.
+- [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce — background removal, image generation, inpainting, upscaling, virtual try-on.
 * [Fixiol](https://fixiol.com?utm_source=toolify) - AI platform for roof damage detection, analysis, and reporting.
 * [Fllow.ai](https://fllow.ai?utm_source=toolify) - AI video platform for professional, high-quality, multi-style video creation.
 * [Flowstep](https://flowstep.ai?utm_source=toolify) - AI design assistant for UI, wireframes, and user flows.
